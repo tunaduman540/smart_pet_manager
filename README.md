@@ -1,10 +1,3 @@
-# Smart Pet Manager 🐾
+Pet Manager Application
 
-Bu uygulama, evcil hayvanların bakımını kolaylaştırmak için geliştirilmiştir.  
-- Flutter ile yazıldı  
-- Özellikler:
-  - Mama hatırlatıcısı
-  - Aşı takvimi
-  - Aktivite kaydı
-
-## Kurulum
+This repository contains the pet management application assignment prepared for the MobileProgramming  course.
